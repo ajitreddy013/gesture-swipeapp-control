@@ -12,7 +12,7 @@ This project enables users to control app switching using hand gestures detected
 - Python 3.x
 - OpenCV
 - Jupyter Notebook
-- (Add any other dependencies used in your notebook)
+
 
 ## Setup
 
