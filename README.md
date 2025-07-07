@@ -34,6 +34,4 @@ This project enables users to control app switching using hand gestures detected
 
 - Run the notebook and follow the instructions to use hand gestures for app control.
 
-## License
 
-MIT (or specify your license)
